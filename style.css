@@ -131,6 +131,10 @@ body>.wrapper {
     font-family: "Arial";
 }
 
+.menu a:hover {
+    text-decoration: none;
+}
+
 nav {
     margin-bottom: 46px;
 }
